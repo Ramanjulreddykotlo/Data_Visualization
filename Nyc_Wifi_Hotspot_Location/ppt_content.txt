@@ -1,0 +1,36 @@
+For Data: NYC_WIFI_HOTSPOT_LOCATION 
+1. 
+It appears that Spectrum is the dominant provider across most boroughs, with the highest number of hotspots in all except Staten Island.
+
+Transit Wireless has a significant presence in Brooklyn, Manhattan, and Queens.
+
+Other providers like AT&T, NYPL, and LinkNYC - Citybridge seem to have a lower overall presence compared to Spectrum and Transit Wireless.
+
+
+2.
+
+It appears that Indoor appears to be the dominant location type across most boroughs, likely consisting of hotspots in buildings, libraries, or community centers.
+
+Outdoor hotspots, including those on streetlights, kiosks, or aerial installations, also have a noticeable presence across all boroughs.
+
+3.
+
+Bronx appears to have the most Wi-Fi hotspots, followed by Brooklyn and Queens.
+
+Manhattan and Staten Island seem to have the least number of hotspots compared to the other boroughs.
+
+The percentages provide a clearer view of the distribution compared to a bar chart, highlighting the dominance of Bronx in terms of hotspot count.
+
+
+
+4.
+
+Spectrum is the dominant provider with the most Wi-Fi hotspots in New York City.
+
+Transit Wireless and Downtown Brooklyn follow Spectrum with a significant number of hotspots.
+
+Several other providers, including AT&T, NYPL, and LinkNYC - Citybridge, have a noticeably lower presence compared to the leaders.
+
+
+
+

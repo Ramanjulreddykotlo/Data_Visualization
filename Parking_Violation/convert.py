@@ -1,8 +1,8 @@
+# covert file xlsx to csv file
 import pandas as pd
-
-# Replace 'input_file.xlsx' with the path to your Excel file
+# xlsx file 
 input_file = 'ParkingViolationCodes_March_2024.xlsx'
-# Replace 'output_file.csv' with the desired name for the CSV file
+# csv file
 output_file = 'ParkingViolationCodes_March_2024.csv'
 
 # Read Excel file
